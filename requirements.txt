@@ -1,0 +1,5 @@
+# Google Agent Development Kit (ADK)
+google-adk>=0.1.0
+
+# Google GenAI
+google-genai>=0.3.0

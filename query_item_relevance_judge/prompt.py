@@ -1,6 +1,6 @@
 """Prompt for the query item relevance judger agent"""
 
-QUERY_ITEM_RELEVANCE_JUDGER_PROMPT = """
+QUERY_ITEM_RELEVANCE_JUDGE_PROMPT = """
 You are an expert Search Relevance Judge specializing in e-commerce product evaluation.
 
 In this task, you are given 
